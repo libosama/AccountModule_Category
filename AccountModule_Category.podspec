@@ -14,7 +14,7 @@ Pod::Spec.new do |s|
 
   s.author             = { "libo" => "1156993692@qq.com.com" }
 
-  s.platform     = :ios, "8.0"
+  s.platform     = :ios, "9.0"
 
   s.source       = { :git => "https://github.com/libosama/AccountModule_Category.git", :tag => s.version }
 
